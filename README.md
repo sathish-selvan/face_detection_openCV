@@ -1,1 +1,3 @@
-# face_detection_openCV
+# Face_detection_openCV
+
+![](thumb/output.png)
